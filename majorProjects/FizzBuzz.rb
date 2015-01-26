@@ -14,7 +14,7 @@ class FizzBuzzer
 	def intro
 		puts "Welcome to the Fizz Buzzer App!"
 		puts "This program automates one of the most common programming questions!"
-		puts "Just plug in the numbers...let me program handle the hard part!"
+		puts "Just plug in the numbers and let my program handle the rest!"
 		sleep(1)
 		puts "Loading..."
 		sleep(1)
