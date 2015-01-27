@@ -1,14 +1,3 @@
-# (1..100).each do |number|
-# 	if(number % 3 == 0) && (number % 5 == 0)
-# 		puts "FizzBuzz"
-# 	elsif number % 5 == 0
-# 		puts "Buzz"
-# 	elsif (number % 3 == 0) 
-# 		puts "Fizz"
-# 	else
-# 		puts number
-# 	end
-# end
 
 # A Program designed to FizzBuzz any range of numbers and and look for multiple of any given number
 class FizzBuzzer
@@ -25,7 +14,7 @@ class FizzBuzzer
 	def intro
 		puts "Welcome to the Fizz Buzzer App!"
 		puts "This program automates one of the most common programming questions!"
-		puts "Just plug in the numbers...let me program handle the hard part!"
+		puts "Just plug in the numbers and let my program handle the rest!"
 		sleep(1)
 		puts "Loading..."
 		sleep(1)
