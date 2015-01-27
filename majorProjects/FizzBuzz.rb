@@ -1,4 +1,4 @@
-
+#Very Fizzy, Very Awesome...
 # A Program designed to FizzBuzz any range of numbers and and look for multiple of any given number
 class FizzBuzzer
 
